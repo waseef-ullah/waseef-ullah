@@ -58,7 +58,7 @@ Deep learning project for Urdu text style transfer. Focuses on preserving typogr
 Extension of the original style transfer project, focusing on accurate kerning for Urdu characters in natural handwriting simulations.
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -66,6 +66,8 @@ Extension of the original style transfer project, focusing on accurate kerning f
 </p>
 
 ---
+-->
+
 
 ## 🎯 Currently Exploring
 - Generative AI with **LangChain**, **OpenAI**, and **vector databases**  
