@@ -4,10 +4,14 @@ I’m a **Senior Backend Engineer** who loves turning complex problems into eleg
 For 6+ years, I’ve been building high-performance APIs, cloud-native SaaS platforms, and AI-powered tools — always with clean, production-ready code.
 
 💡 My work spans:
-- Scalable backend systems with **Python**, **FastAPI**, and **Django**
-- **ML, NLP, and Computer Vision** integrations in production
-- Secure API design, real-time systems, and multi-tenant architectures
-- **Cloud deployments** with AWS, Docker, and Kubernetes
+- **Scalable backend systems** with Python, FastAPI, and Django — powering SaaS platforms and enterprise-grade APIs
+- **AI, ML, NLP, and Computer Vision** integrations for automation, data cleaning, and intelligent decision-making
+- **Cloud-native deployments** on AWS, Docker, and Kubernetes with CI/CD pipelines for rapid, reliable releases
+- **Real-time systems** using WebSockets, Socket.IO, and event-driven architectures
+- **Third-party API integrations** (HubSpot, Stripe, Shopify, Google APIs) at high data volumes
+- **Data pipelines & ETL workflows** for processing millions of records efficiently
+- **Secure API design** with OAuth2, JWT, and role-based access controls
+- **Optimization & automation** to reduce latency, cut costs, and improve developer productivity
 
 ---
 
