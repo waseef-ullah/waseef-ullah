@@ -74,7 +74,7 @@ Extension of the original style transfer project, focusing on accurate kerning f
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseef-ullah)
-[![Email](https://img.shields.io/badge/Email-waseef.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waseef.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-waseef-ullah%40outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waseef-ullah@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waseef-ullah)
 
 ---
